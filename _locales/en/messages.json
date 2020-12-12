@@ -1,0 +1,50 @@
+{
+    "appName": {
+        "message": "Search Selection"
+    },
+    "pageTitle": {
+        "message": "Search Selection options"
+    },
+    "sites": {
+        "message": "Search sites"
+    },
+    "statusText": {
+        "message": "options saved"
+    },
+    "appDesc": {
+        "message": "Use the context menu to search for the selected text on configured sites"
+    },
+    "save": {
+        "message": "Save"
+    },
+    "addSite": {
+        "message": "Add site"
+    },
+    "siteName": {
+        "message": "Site name"
+    },
+    "parmLabel": {
+        "message": "Key"
+    },
+    "valueLabel": {
+        "message": "Value"
+    },
+    "parmSection": {
+        "message": "Extra parameters"
+    },
+    "addPrm": {
+        "message": "Add parameter"
+    },
+    "delPrm": {
+        "message": "Delete"
+    },
+    "delForm": {
+        "message": "Delete site"
+    },
+    "siteURL": {
+        "message": "Search url, ex: https://google.com/search?q="
+    },
+    "defaultMenu": {
+        "message": "Search"
+    }
+}
